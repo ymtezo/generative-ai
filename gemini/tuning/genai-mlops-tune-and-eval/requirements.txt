@@ -1,6 +1,6 @@
 annotated-types==0.7.0
 cachetools==5.5.2
-certifi==2024.12.14
+certifi==2026.10.18
 charset-normalizer==3.4.1
 click==8.1.8
 docstring_parser==0.16
@@ -23,11 +23,11 @@ kfp-pipeline-spec==0.6.0
 kfp-server-api==2.4.0
 kubernetes==30.1.0
 numpy==2.2.4
-oauthlib==3.2.2
+oauthlib==4.0.1
 packaging==24.2
 proto-plus==1.26.1
 protobuf==4.25.6
-pyasn1==0.6.4
+pyasn1==0.6.5
 pyasn1_modules==0.4.2
 pydantic==2.11.1
 pydantic_core==2.33.1
